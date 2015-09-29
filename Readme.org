@@ -1,22 +1,22 @@
 #-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:02.837619
+#+DATE: 2015-09-28 22:58:03.216228
 #+TITLE: 華嚴經旨歸
 #+PROPERTY: CBETA_ID T45n1871
 #+PROPERTY: ID KR6e0085
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1871
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIA
 
 <pb:KR6e0085_T_000-0589c>¶
 
-[[file:KR6e0085_001.txt::001-0589c16][1說經處]]
-[[file:KR6e0085_001.txt::0590b12][2說經時]]
-[[file:KR6e0085_001.txt::0590c26][3說經佛]]
-[[file:KR6e0085_001.txt::0591c9][4說經眾]]
-[[file:KR6e0085_001.txt::0592b27][5說經儀]]
-[[file:KR6e0085_001.txt::0592c21][6辯經教]]
-[[file:KR6e0085_001.txt::0594a6][7顯經義]]
-[[file:KR6e0085_001.txt::0594c24][8釋經意]]
-[[file:KR6e0085_001.txt::0595c1][9明經益]]
-[[file:KR6e0085_001.txt::0596c6][10示經圓]]
+[[file:KR6e0085_001.txt::001-0589c17][說經處第一¶]]
+[[file:KR6e0085_001.txt::0590b13][演經時第二¶]]
+[[file:KR6e0085_001.txt::0590c27][說經佛第三¶]]
+[[file:KR6e0085_001.txt::0591c10][說經眾第四¶]]
+[[file:KR6e0085_001.txt::0592b28][說經儀第五¶]]
+[[file:KR6e0085_001.txt::0592c22][示經教第六¶]]
+[[file:KR6e0085_001.txt::0594a7][顯經義第七¶]]
+[[file:KR6e0085_001.txt::0594c25][釋經意第八¶]]
+[[file:KR6e0085_001.txt::0595c2][明經益第九¶]]
+[[file:KR6e0085_001.txt::0596c7][顯經圓第十¶]]
